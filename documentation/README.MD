@@ -2,11 +2,6 @@
 
 1. Install [Go](https://golang.org/doc/install)
 2. Install [Hugo](https://gohugo.io/getting-started/installing/)
-3. Clone Theme 
-
-```bash
-$:- git clone https://github.com/zerostaticthemes/hugo-hero-theme.git themes/hugo-hero-theme
-```
  
 # Commands
 
@@ -21,3 +16,7 @@ $:- hugo --minify -d docs
 ```bash
 $:- hugo server
 ```
+
+# Publish the changes
+
+To publish the changes 

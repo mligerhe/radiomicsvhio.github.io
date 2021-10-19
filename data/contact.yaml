@@ -1,9 +1,9 @@
-email: 'example@example.com'
+email: 'example@vhio.net'
 phone: 'XXXX XXX XXX'
-businessName: 'Hugo Serif'
+businessName: 'radiomicsvhio'
 address: |
   123 Some Street
-  City, State 12345
+  Barcelona, State 12345
 hours:
   - day: Monday
     open: 8:30am
