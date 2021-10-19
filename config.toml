@@ -1,0 +1,54 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Radiomics"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+destination = "docs"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "Radiomics Group VHIO: quantitative imaging biomarkers for precision medicine to improve cancer patient care."
+    meta_og_title = "Radiomics Group VHIO"
+    meta_og_type = "website"
+    meta_og_url = "https://radiomicsvhio.github.io"
+    meta_og_description = "Radiomics Group VHIO: quantitative imaging biomarkers for precision medicine to improve cancer patient care."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@radiomicsVHIO"
+    meta_twitter_creator = "@radiomicsVHIO"
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+
+[[menu.main]]
+    name = "History"
+    url = "/history/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
