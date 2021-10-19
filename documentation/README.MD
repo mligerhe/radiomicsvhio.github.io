@@ -19,4 +19,4 @@ $:- hugo server
 
 # Publish the changes
 
-To publish the changes 
+First test all the content and functions using the local server and later publish the changes doing a commit to the *main* branch. 
