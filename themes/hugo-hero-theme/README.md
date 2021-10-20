@@ -12,7 +12,7 @@ Hero is a multi-page business theme with fullscreen hero images and fullwidth se
 ### Content Types
 
 - team (Markdown)
-- Work/Portfolio (Markdown)
+- Research/Portfolio (Markdown)
 - Features (Data)
 - About (Markdown, Single Page, Shortcodes)
 - Homepage (Markdown, Single Page, multiple .md files in one layout)
@@ -23,7 +23,7 @@ Hero is a multi-page business theme with fullscreen hero images and fullwidth se
 - Includes examples where multiple .md files are sourced in a single layout to create fullwidth sections that have different locations in the HTML.
 - The "Home" page uses multiple markdown files for the different homepage sections. It uses **headless bundles**.
 - The "About Us" page uses multiple markdown files for its different sections. It uses **leaf bundles** and **shortcodes**.
-- "team" & "Work" use markdown files with layouts for list, single and summary views.
+- "team" & "Research" use markdown files with layouts for list, single and summary views.
 
 ### Features
 
