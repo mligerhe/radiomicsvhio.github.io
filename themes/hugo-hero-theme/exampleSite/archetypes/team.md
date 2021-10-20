@@ -1,20 +1,20 @@
 ---
-title: 'Demos'
-date: 2018-11-18T12:33:46+10:00
-icon: 'services/demos.png'
-draft: false
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+date: {{ .Date }}
+icon: "team/team-icon-1.png"
 featured: true
-weight: 0
-heroHeading: 'Demos'
-heroSubHeading: Demo subheading Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.'
-
+draft: false
+weight: 100
+heroHeading: 'team'
+heroSubHeading: 'team that grow with your business'
+heroBackground: 'team/team1.jpg'
 ---
 
-Demo base text obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Agitabitur signa lympha 
+Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
+de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
+crimen habet Priamum nec.
 
-## Ne verba patulosque numen vix libet One
+## Ne verba patulosque numen vix libet
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
@@ -32,7 +32,7 @@ dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
 Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
 esse iam feres mortis Plurima.
 
-## Postquam tamen (2)
+## Postquam tamen
 
 Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
 et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et

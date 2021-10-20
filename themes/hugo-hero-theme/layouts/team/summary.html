@@ -1,11 +1,11 @@
-<div class="service service-summary">
+<div class="team team-summary">
   {{ if .Params.icon }}
-  <div class="service-image">
+  <div class="team-image">
     <img src="{{ .Site.BaseURL }}{{ .Params.icon }}"/>
   </div>
   {{ end }}
-  <div class="service-content">
-    <h2 class="service-title">
+  <div class="team-content">
+    <h2 class="team-title">
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h2>
     {{ .Content | truncate 120 "..." }}

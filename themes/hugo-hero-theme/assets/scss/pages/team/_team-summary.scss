@@ -1,7 +1,7 @@
-.service-summary {
+.team-summary {
   display: flex;
   align-items: flex-start;
-  .service-image {
+  .team-image {
     flex: 0 0 40px;
     margin-right: 10px;
     img {
@@ -9,9 +9,9 @@
       height: auto;
     }
   }
-  .service-content {
+  .team-content {
     flex: 1;
-    .service-title {
+    .team-title {
       font-family: $font-family-heading;
       font-size: 1.5rem;
     }

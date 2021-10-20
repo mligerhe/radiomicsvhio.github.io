@@ -24,8 +24,8 @@ destination = "docs"
     meta_twitter_creator = "@radiomicsVHIO"
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "team"
+	url = "/team/"
     weight = 1
 
 [[menu.main]]

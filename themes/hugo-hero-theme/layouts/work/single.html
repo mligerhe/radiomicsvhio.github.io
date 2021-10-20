@@ -29,11 +29,11 @@
 
 {{ define "footer_js" }}
 {{ $library := resources.Get "js/libs/library.js" }}
-{{ $services := resources.Get "js/pages/services.js" }}
-{{ $servicesJS := slice $library $services |resources.Concat "js/services.js" }}
+{{ $team := resources.Get "js/pages/team.js" }}
+{{ $teamJS := slice $library $team |resources.Concat "js/team.js" }}
 {{ if .Site.IsServer }}
-  <script type="text/javascript" src="{{ $servicesJS.RelPermalink }}"></script>
+  <script type="text/javascript" src="{{ $teamJS.RelPermalink }}"></script>
   {{ else }}
-  <script type="text/javascript" src="{{ ($servicesJS | minify | fingerprint).RelPermalink }}"></script>
+  <script type="text/javascript" src="{{ ($teamJS | minify | fingerprint).RelPermalink }}"></script>
   {{ end }}
 {{ end }}

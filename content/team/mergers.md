@@ -1,13 +1,12 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
-icon: "services/service-icon-1.png"
+title: 'Mergers'
+date: 2018-11-28T15:15:34+10:00
+icon: 'team/team-icon-4.png'
 featured: true
 draft: false
-weight: 100
-heroHeading: 'Services'
-heroSubHeading: 'Services that grow with your business'
-heroBackground: 'services/service1.jpg'
+heroHeading: 'Mergers & Acquisitions'
+heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+heroBackground: 'team/team2.jpg'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

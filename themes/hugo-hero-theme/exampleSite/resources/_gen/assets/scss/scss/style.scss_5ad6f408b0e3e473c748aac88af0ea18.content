@@ -6079,32 +6079,32 @@ html {
 .bg-secondary {
   background-color: #43454d; }
 
-.page-services-single .content > p:first-of-type {
+.page-team-single .content > p:first-of-type {
   font-size: 1.2rem;
   line-height: 1.5;
   margin-bottom: 40px;
   font-weight: 300; }
   @media (min-width: 768px) {
-    .page-services-single .content > p:first-of-type {
+    .page-team-single .content > p:first-of-type {
       font-size: 1.4rem;
       line-height: 1.4;
       margin-bottom: 40px;
       font-weight: 300; } }
-.service-summary {
+.team-summary {
   display: flex;
   align-items: flex-start; }
-  .service-summary .service-image {
+  .team-summary .team-image {
     flex: 0 0 40px;
     margin-right: 10px; }
-    .service-summary .service-image img {
+    .team-summary .team-image img {
       max-width: 100%;
       height: auto; }
-  .service-summary .service-content {
+  .team-summary .team-content {
     flex: 1; }
-    .service-summary .service-content .service-title {
+    .team-summary .team-content .team-title {
       font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
-    .service-summary .service-content p {
+    .team-summary .team-content p {
       color: #666;
       font-size: 0.9rem;
       width: 90%; }
