@@ -64,11 +64,11 @@
 @import 'components/bg';
 
 // Pages
-@import 'pages/services/page-services-list';
-@import 'pages/services/page-services-single';
-@import 'pages/services/service-summary';
-@import 'pages/work/work-summary';
-@import 'pages/work/page-work-single';
+@import 'pages/team/page-team-list';
+@import 'pages/team/page-team-single';
+@import 'pages/team/team-summary';
+@import 'pages/Research/Research-summary';
+@import 'pages/Research/page-Research-single';
 
 // Display breakpoints for DEV
 // body:after {

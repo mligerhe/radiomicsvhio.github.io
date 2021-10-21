@@ -24,13 +24,13 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "team"
+	url = "/team/"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
-    url = "/work/"
+    name = "Research"
+    url = "/Research/"
     weight = 2
 
 [[menu.main]]

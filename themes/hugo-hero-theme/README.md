@@ -11,8 +11,8 @@ Hero is a multi-page business theme with fullscreen hero images and fullwidth se
 
 ### Content Types
 
-- Services (Markdown)
-- Work/Portfolio (Markdown)
+- team (Markdown)
+- Research/Portfolio (Markdown)
 - Features (Data)
 - About (Markdown, Single Page, Shortcodes)
 - Homepage (Markdown, Single Page, multiple .md files in one layout)
@@ -23,7 +23,7 @@ Hero is a multi-page business theme with fullscreen hero images and fullwidth se
 - Includes examples where multiple .md files are sourced in a single layout to create fullwidth sections that have different locations in the HTML.
 - The "Home" page uses multiple markdown files for the different homepage sections. It uses **headless bundles**.
 - The "About Us" page uses multiple markdown files for its different sections. It uses **leaf bundles** and **shortcodes**.
-- "Services" & "Work" use markdown files with layouts for list, single and summary views.
+- "team" & "Research" use markdown files with layouts for list, single and summary views.
 
 ### Features
 
@@ -155,14 +155,14 @@ Often a homepage requires special meta tags such as a meta description or og met
 
 ### Set meta tags on a per layout basis
 
-You can set meta tags on a per template basis using a block. For example, you might want to write a custom meta description for the `/services` page. You can insert any valid HTML meta data inside the `{{ define "meta_tags }}` block at the top of a template.
+You can set meta tags on a per template basis using a block. For example, you might want to write a custom meta description for the `/team` page. You can insert any valid HTML meta data inside the `{{ define "meta_tags }}` block at the top of a template.
 
 ```
-// layouts/services/list.html
+// layouts/team/list.html
 ...
 
 {{ define "meta_tags" }}
-    <meta name="description" content="We offer a variety of services in the finance industry" />
+    <meta name="description" content="We offer a variety of team in the finance industry" />
 {{ end }}
 
 {{ define main }}

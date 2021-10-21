@@ -6079,78 +6079,78 @@ html {
 .bg-secondary {
   background-color: #43454d; }
 
-.page-services-single .content > p:first-of-type {
+.page-team-single .content > p:first-of-type {
   font-size: 1.2rem;
   line-height: 1.5;
   margin-bottom: 40px;
   font-weight: 300; }
   @media (min-width: 768px) {
-    .page-services-single .content > p:first-of-type {
+    .page-team-single .content > p:first-of-type {
       font-size: 1.4rem;
       line-height: 1.4;
       margin-bottom: 40px;
       font-weight: 300; } }
-.service-summary {
+.team-summary {
   display: flex;
   align-items: flex-start; }
-  .service-summary .service-image {
+  .team-summary .team-image {
     flex: 0 0 40px;
     margin-right: 10px; }
-    .service-summary .service-image img {
+    .team-summary .team-image img {
       max-width: 100%;
       height: auto; }
-  .service-summary .service-content {
+  .team-summary .team-content {
     flex: 1; }
-    .service-summary .service-content .service-title {
+    .team-summary .team-content .team-title {
       font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
-    .service-summary .service-content p {
+    .team-summary .team-content p {
       color: #666;
       font-size: 0.9rem;
       width: 90%; }
 
-.work-summary {
+.Research-summary {
   display: flex;
   align-items: flex-start;
   flex-direction: column; }
-  .work-summary .work-image {
+  .Research-summary .Research-image {
     max-height: 400px;
     overflow: hidden; }
-    .work-summary .work-image img {
+    .Research-summary .Research-image img {
       max-width: 100%;
       height: auto; }
-  .work-summary .work-content {
+  .Research-summary .Research-content {
     flex: 1;
     padding: 20px;
     border-bottom: 2px solid #1c3ed3; }
-    .work-summary .work-content .work-title {
+    .Research-summary .Research-content .Research-title {
       font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
-    .work-summary .work-content p {
+    .Research-summary .Research-content p {
       color: #666;
       font-size: 0.9rem; }
 
-.page-work-single h1.title {
+.page-Research-single h1.title {
   font-size: 3rem;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
   color: #1c3ed3; }
 
-.page-work-single .work-image img {
+.page-Research-single .Research-image img {
   width: 100%;
   height: auto; }
 
-.page-work-single .content > p:first-of-type {
+.page-Research-single .content > p:first-of-type {
   font-size: 24px;
   line-height: 32px;
   margin-bottom: 40px;
   font-weight: 300; }
 
-.page-work-single .masonry {
+.page-Research-single .masonry {
   /* Masonry container */
   column-count: 3;
   column-gap: 1em; }
 
-.page-work-single .item {
+.page-Research-single .item {
   /* Masonry bricks or child elements */
   background-color: #eee;
   margin: 0 0 1em; }
