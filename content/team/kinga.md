@@ -1,7 +1,7 @@
 ---
 title: 'Kinga Bernatowicz'
 date: 2018-11-18T12:33:46+10:00
-icon: 'team/team-icon-1.png'
+icon: 'team/Kinga_small.png'
 draft: false
 featured: true
 weight: 1

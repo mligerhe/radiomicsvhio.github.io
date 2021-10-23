@@ -5,8 +5,8 @@ icon: "team/team-icon-1.png"
 featured: true
 draft: false
 weight: 100
-heroHeading: 'team'
-heroSubHeading: 'team that grow with your business'
+heroHeading: 'Radiomics Team'
+heroSubHeading: 'using imaging to improve cancer patient care'
 heroBackground: 'team/team1.jpg'
 ---
 
