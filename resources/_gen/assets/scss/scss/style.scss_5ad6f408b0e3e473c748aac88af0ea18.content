@@ -5564,7 +5564,9 @@ ol {
           .sub-footer .sub-footer-inner ul li:first-of-type {
             margin-left: 0; } }
 .logo {
-  display: none; }
+  display: none;
+  overflow: hidden;
+  white-space: nowrap; }
   @media (min-width: 576px) {
     .logo {
       display: block;
