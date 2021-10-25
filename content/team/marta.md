@@ -4,7 +4,7 @@ date: 2018-11-28T15:15:34+10:00
 icon: 'team/team-icon-4.png'
 featured: true
 draft: false
-weight: 2
+weight: 3
 heroHeading: 'Marta Ligero'
 heroSubHeading: 'PhD student in Bioengineering'
 heroBackground: 'team/team2.jpg'

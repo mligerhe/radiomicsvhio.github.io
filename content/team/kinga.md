@@ -14,5 +14,5 @@ Postdoctoral researcher with engineering and medical physics knowledge, data ana
 
 [LinkedIn](https://www.linkedin.com/in/kinga-bernatowicz-8091b2a6/)
 [Twitter @KingaBarcelona](https://twitter.com/KingaBarcelona)
-[kbernatowicz@vhio.net)(mailto:kbernatowicz@vhio.net)
+[kbernatowicz@vhio.net](mailto:kbernatowicz@vhio.net)
 

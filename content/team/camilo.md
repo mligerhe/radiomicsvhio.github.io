@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:39+10:00
 icon: 'team/team-icon-2.png'
 featured: true
 draft: false
-weight: 2
+weight: 4
 heroHeading: 'Camilo Monreal'
 heroSubHeading: 'Computer Scientist'
 heroBackground: 'team/team2.jpg'
