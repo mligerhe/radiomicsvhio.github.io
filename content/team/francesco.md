@@ -1,7 +1,7 @@
 ---
 title: 'Francesco Grussu'
 date: 2018-11-18T12:33:46+10:00
-icon: 'team/team-icon-6.png'
+icon: 'team/fgrussuavatar.png'
 draft: false
 featured: true
 weight: 2
@@ -17,13 +17,13 @@ You can contact me at [fgrussu@vhio.net](mailto:fgrussu@vhio.net).
 
 
 ### Links and resources
-You can find:
-* my personal **web page** [here](http://fragrussu.github.io);
-* my **CV** [here](http://fragrussu.github.io/mycv.pdf);
-* my **PhD thesis** at UCL [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf);
-* my **Google Scholar** profile [here](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao);
-* my **ORCID** profile [here](https://orcid.org/0000-0002-0945-3909); 
-* my **Twitter** page [@fragrussu](https://twitter.com/fragrussu).
+Below you can find links to:
+* my personal [web page](http://fragrussu.github.io);
+* my [CV](http://fragrussu.github.io/mycv.pdf);
+* my [PhD thesis](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf);
+* my Google Scholar [page](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao);
+* my ORCID [page](https://orcid.org/0000-0002-0945-3909); 
+* my Twitter page [@fragrussu](https://twitter.com/fragrussu).
 
 I have developed and released several free open-source packages for advanced image analysis, which include:
 * [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
