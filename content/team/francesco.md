@@ -10,22 +10,7 @@ heroSubHeading: 'Senior Postdoctoral Researcher'
 heroBackground: 'team/team2.jpg'
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
-
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
-
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
-
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+I am a Biomedical engineer who works in Magnetic Resonance Imaging (MRI). I graduated at the [University of Cagliari](https://www.unica.it/unica/en/homepage.page) (BEng Biomedical engineering, 2009) and [University of Genoa](https://unige.it/en) (MEng Bioengineering, 2012) in Italy, and then obtained a PhD at [University College London](https://www.ucl.ac.uk/) (UCL) (Magnetic Resonance Physics, 2016). I have worked as a post-doc at UCL from February 2016 to September 2020, where I was a member of the Queen Square Institute of Neurology and Centre for Medical Image Computing. I have been Trainee representative (2018-2020) of the White Matter Study Group of the [International Society for Magnetic Resonance in Medicine](https://www.ismrm.org/) (ISMRM), of which I am a member since 2013. Since October 2020 I am a senior post-doc at the [Vall d'Hebron Institute of Oncology](https://www.vhio.net/) (VHIO), where I work on radiomics and quantitative MRI (qMRI) development in cancer precision medicine.
 
 ## Patulis Veneris est expulit adversaque magnum mediaque
 
