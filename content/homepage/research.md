@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: 'We Support Cancer Patients Care'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Our Research'
 buttonLink: 'Research'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+We apply imaging biomarkers and radiomics to cancer discovery, our efforts center on advancing precision imaging in personalized medicine. We develop and implement computational models for advanced image processing. We integrate radiomics and genomics in translational studies towards a deeper understanding of tumor evolution and mechanisms of resistance to anti-cancer therapies.
