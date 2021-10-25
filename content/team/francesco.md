@@ -56,5 +56,3 @@ Magna cum Laude award at the 2020 ISMRM meeting, for abstract Grussu et al, Proc
 
 1st prize in the “Multi-dimensional Diffusion Imaging” (MUDI) challenge at 2019 CDMRI MICCAI Workshop (Shenzhen, China, 17/10/2019). Team: Grussu F,
 Blumberg SB, Ianus A, Mertzanidou T, Alexander DC. Method: SARDU-Net.
-
-Merit Award Magna cum Laude, abstract (Grussu et al, p.1035, ISMRM 2020).
