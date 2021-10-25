@@ -27,7 +27,7 @@ Below you can find links to:
 
 I have developed several free open-source packages for advanced image analysis, such as:
 * [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
-* [SARDU-Net](https://github.com/fragrussu/sardunet), for data-driven quantitative MRI protocol design powered by artificial intelligence (AI) via the "Select and Retrieve via Direct Upsampling Network" algorithm;
-* [qMRINet](https://github.com/fragrussu/qMRINet), for qMRI model fitting based on AI;
+* [SARDU-Net](https://github.com/fragrussu/sardunet), for data-driven quantitative MRI protocol design powered by artificial intelligence (AI), as implemented in the "Select and Retrieve via Direct Upsampling Network" algorithm;
+* [qMRINet](https://github.com/fragrussu/qMRINet), for MRI model fitting based on AI;
 * [MRItools](https://github.com/fragrussu/MRItools), providing a collection of tools useful in MRI research;
 * [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox), for analysis of 2D histological images, useful in MRI validation studies.
