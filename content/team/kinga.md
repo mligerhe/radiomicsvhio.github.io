@@ -1,12 +1,12 @@
 ---
 title: 'Kinga Bernatowicz'
 date: 2018-11-18T12:33:46+10:00
-icon: 'team/Kinga_small.png'
+icon: 'team/Kinga_small.jpg'
 draft: false
 featured: true
 weight: 1
 heroHeading: 'Kinga Bernatowicz'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroSubHeading: 'Senior Postdoctoral Researcher'
 heroBackground: 'team/team1.jpg'
 ---
 

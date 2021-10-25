@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: false
 weight: 100
 heroHeading: 'Research'
-heroSubHeading: 'Our portfolio and previous projects'
+heroSubHeading: 'Our research projects'
 heroBackground: 'https://source.unsplash.com/1600x900/?architecture'
 image: 'Research/Research1.jpg'
 ---

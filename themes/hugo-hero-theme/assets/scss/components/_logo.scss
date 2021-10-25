@@ -1,5 +1,7 @@
 .logo {
   display: none;
+  overflow: hidden;
+  white-space: nowrap;
   @include media-breakpoint-up(sm) {
     display: block;
     width: 120px;
