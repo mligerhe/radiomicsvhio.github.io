@@ -16,7 +16,7 @@ I am a Biomedical engineer who works in Magnetic Resonance Imaging (MRI). I grad
 You can contact me at [fgrussu@vhio.net](mailto:fgrussu@vhio.net).
 
 
-# Links and resources
+### Links and resources
 You can find:
 * my personal **web page** [here](http://fragrussu.github.io);
 * my **CV** [here](http://fragrussu.github.io/mycv.pdf);
