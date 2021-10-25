@@ -24,7 +24,7 @@ Below you can find links to:
 * my Google Scholar [profile](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao);
 * my Twitter page [@fragrussu](https://twitter.com/fragrussu).
 
-I have released several open-source packages for advanced image analysis, such as:
+I have released several open-source packages for advanced image analysis, e.g.:
 * [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
 * [SARDU-Net](https://github.com/fragrussu/sardunet), for data-driven quantitative MRI protocol design;
 * [qMRINet](https://github.com/fragrussu/qMRINet), for deep learning MRI model fitting;
