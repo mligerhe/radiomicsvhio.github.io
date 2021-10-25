@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: 'Our Origin'
 weight: 2
 background: ''
 button: 'About Us'
 buttonLink: 'about'
 ---
 
-Text about us.
+Would you like to find out more about our group?
