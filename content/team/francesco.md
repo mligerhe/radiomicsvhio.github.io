@@ -21,15 +21,14 @@ Below you can find links to:
 * my personal [web page](http://fragrussu.github.io);
 * my [CV](http://fragrussu.github.io/mycv.pdf);
 * my [PhD thesis](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf);
-* my Google Scholar [page](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao);
-* my ORCID [page](https://orcid.org/0000-0002-0945-3909); 
+* my Google Scholar [profile](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao);
 * my Twitter page [@fragrussu](https://twitter.com/fragrussu).
 
-I release freely open-source packages for advanced image analysis, such as:
+I have released several open-source packages for advanced image analysis, such as:
 * [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
 * [SARDU-Net](https://github.com/fragrussu/sardunet), for data-driven quantitative MRI protocol design;
 * [qMRINet](https://github.com/fragrussu/qMRINet), for deep learning MRI model fitting;
-* [MRItools](https://github.com/fragrussu/MRItools), providing a collection of tools useful in MRI research;
+* [MRItools](https://github.com/fragrussu/MRItools), providing a collection of tools useful in MRI research.
 
 
 ### Latest articles
