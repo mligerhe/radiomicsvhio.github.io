@@ -18,12 +18,12 @@ You can contact me at [fgrussu@vhio.net](mailto:fgrussu@vhio.net).
 
 ## Links and resources
 You can find:
-* **my personal web page** [here](http://fragrussu.github.io)
-* **my CV** [here](http://fragrussu.github.io/mycv.pdf);
-* **my PhD thesis** at UCL [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf);
-* **my Google Scholar profile** [here](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao);
-* **my ORCID profile** [here](https://orcid.org/0000-0002-0945-3909); 
-* **my Twitter web page** [@fragrussu](https://twitter.com/fragrussu).
+* my personal **web page** [here](http://fragrussu.github.io)
+* my **CV** [here](http://fragrussu.github.io/mycv.pdf);
+* my **PhD thesis** at UCL [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf);
+* my **Google Scholar** profile [here](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao);
+* my **ORCID** profile [here](https://orcid.org/0000-0002-0945-3909); 
+* my **Twitter** page [@fragrussu](https://twitter.com/fragrussu).
 
 in my personal web page, you can access several free open-source packages for advanced image analysis:
 * [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
