@@ -41,7 +41,7 @@ J Cohen-Adad, ..., F Grussu, et al. Generic acquisition protocol for quantitativ
 
 D Johnson, A Ricciardi, W Brownlee, B Kanber, F Prados, S Collorone, E Kaden, A Toosy, DC Alexander, CAM Gandini Wheeler-Kingshott, O Ciccarelli, F Grussu. Comparison of Neurite Orientation Dispersion and Density Imaging and Two-Compartment Spherical Mean Technique Parameter Maps in Multiple Sclerosis. Frontiers in Neurology 12, 662855, 2021; doi: [10.3389/fneur.2021.662855](https://doi.org/10.3389/fneur.2021.662855).
 
-F Grussu, M Battiston, J Veraart, T Schneider, J Cohen-Adad, TM Shepherd, DC Alexander, E Fieremans, DS Novikov, CAM Gandini Wheeler-Kingshott. Multi-parametric quantitative in vivo spinal cord MRI with unified signal readout and image denoising. NeuroImage 217, 116884, 2021; doi:[10.1016/j.neuroimage.2020.116884](https://doi.org/10.1016/j.neuroimage.2020.116884).
+F Grussu, M Battiston, J Veraart, T Schneider, J Cohen-Adad, TM Shepherd, DC Alexander, E Fieremans, DS Novikov, CAM Gandini Wheeler-Kingshott. Multi-parametric quantitative in vivo spinal cord MRI with unified signal readout and image denoising. NeuroImage 217, 116884, 2021; doi: [10.1016/j.neuroimage.2020.116884](https://doi.org/10.1016/j.neuroimage.2020.116884).
 
 ### Recent grants and awards
 2020 Beatriu de Pinós post-doctoral fellowship. "Advancing Magnetic Resonance Imaging against liver cancer". Role: principal investigator (fellow). Amount: €144 300. Date of award: September 2021. 
@@ -50,7 +50,7 @@ F Grussu, M Battiston, J Veraart, T Schneider, J Cohen-Adad, TM Shepherd, DC Ale
 
 Magna cum Laude award at the 2021 ISMRM meeting, for abstract Grussu et al, Proc ISMRM 2021, p.0699.
 
-Magna cum Laude award at the 2020 ISMRM meeting, for abstract Grussu et al, Proc ISMRM 2021, p.1035.
+Magna cum Laude award at the 2020 ISMRM meeting, for abstract Grussu et al, Proc ISMRM 2020, p.1035.
 
 2nd prize (shared), 2020 ISMRM British and Irish Chapter “Mansfield Research Innovation Award” for abstract Grussu F et al, Proc of ISMRM 2020.
 
