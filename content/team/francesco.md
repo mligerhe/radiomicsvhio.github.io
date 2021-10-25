@@ -26,7 +26,7 @@ You can find my personal web page [here](http://fragrussu.github.io), where you 
 * [StructureTensorToolbox](https://github.com/fragrussu/StructureTensorToolbox), for analysis of 2D histological images, useful in MRI validation studies.
 
 Moreover, you can find: 
-* my up-to-date CV [here](fragrussu.github.io/mycv.pdf);
+* my up-to-date CV [here](http://fragrussu.github.io/mycv.pdf);
 * my PhD thesis at UCL [here](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf);
 * my Google Scholar profile with all my publications [here](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao);
 * my Twitter web page [@fragrussu](https://twitter.com/fragrussu).
