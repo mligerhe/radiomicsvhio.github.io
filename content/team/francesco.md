@@ -25,7 +25,7 @@ Below you can find links to:
 * my ORCID [page](https://orcid.org/0000-0002-0945-3909); 
 * my Twitter page [@fragrussu](https://twitter.com/fragrussu).
 
-I have developed and released several free open-source packages for advanced image analysis, which include:
+I have developed and several free open-source packages for advanced image analysis, such as:
 * [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
 * [SARDU-Net](https://github.com/fragrussu/sardunet), for data-driven quantitative MRI protocol design powered by artificial intelligence (AI) via the "Select and Retrieve via Direct Upsampling Network" algorithm;
 * [qMRINet](https://github.com/fragrussu/qMRINet), for qMRI model fitting based on AI;
