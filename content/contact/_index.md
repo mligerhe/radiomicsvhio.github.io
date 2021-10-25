@@ -3,4 +3,4 @@ title: 'Contact'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Don't hesitate to contact us. We are also on Twitter (@radiomicsVHIO).
+Don't hesitate to contact us!
