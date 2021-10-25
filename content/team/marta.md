@@ -1,11 +1,11 @@
 ---
-title: 'Mergers'
+title: 'Marta Ligero'
 date: 2018-11-28T15:15:34+10:00
 icon: 'team/team-icon-4.png'
 featured: true
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+heroHeading: 'Marta Ligero'
+heroSubHeading: 'PhD student in Bioengineering'
 heroBackground: 'team/team2.jpg'
 ---
 

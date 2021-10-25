@@ -1,5 +1,5 @@
 ---
-title: 'Accounting'
+title: 'Raquel Perez-Lopez'
 date: 2018-11-18T12:33:46+10:00
 icon: 'team/team-icon-1.png'
 draft: false

@@ -6,4 +6,4 @@ button: 'Our Research'
 buttonLink: 'Research'
 ---
 
-We apply imaging biomarkers and radiomics to cancer discovery, our efforts center on advancing precision imaging in personalized medicine. We develop and implement computational models for advanced image processing. We integrate radiomics and genomics in translational studies towards a deeper understanding of tumor evolution and mechanisms of resistance to anti-cancer therapies.
+We integrate radiomics and genomics in translational studies towards a deeper understanding of tumor evolution and mechanisms of resistance to anti-cancer therapies.
