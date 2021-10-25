@@ -6096,7 +6096,7 @@ html {
   display: flex;
   align-items: flex-start; }
   .team-summary .team-image {
-    flex: 0 0 40px;
+    flex: 0 0 120px;
     margin-right: 10px; }
     .team-summary .team-image img {
       max-width: 100%;
