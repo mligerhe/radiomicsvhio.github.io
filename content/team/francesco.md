@@ -1,7 +1,7 @@
 ---
 title: 'Francesco Grussu'
 date: 2018-11-18T12:33:46+10:00
-icon: 'team/team-icon-6.png'
+icon: 'team/fgrussuavatar.png'
 draft: false
 featured: true
 weight: 2
