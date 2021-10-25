@@ -4,6 +4,7 @@ date: 2018-11-28T15:15:26+10:00
 icon: 'team/team-icon-3.png'
 featured: true
 draft: false
+weight: 2
 heroHeading: 'Alonso Garcia'
 heroSubHeading: 'PhD student in Bioengineering'
 heroBackground: 'team/team1.jpg'

@@ -4,6 +4,7 @@ date: 2018-11-28T15:14:54+10:00
 icon: 'team/team-icon-5.png'
 featured: true
 draft: false
+weight: 2
 heroHeading: 'Olivia Prior'
 heroSubHeading: 'Research Assistant'
 heroBackground: 'team/team1.jpg'

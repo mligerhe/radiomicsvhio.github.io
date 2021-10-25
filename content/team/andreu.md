@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 icon: 'team/demos.png'
 draft: false
 featured: true
-weight: 0
+weight: 2
 heroHeading: 'Andreu Antolin'
 heroSubHeading: Radiology Resident
 
