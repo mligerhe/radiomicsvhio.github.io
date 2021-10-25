@@ -1,7 +1,7 @@
 ---
 title: 'Camilo Abel'
 date: 2018-11-28T15:14:39+10:00
-icon: 'team/team-icon-2.png'
+icon: 'team/camilo_small.jpg'
 featured: true
 draft: false
 weight: 4

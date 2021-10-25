@@ -1,7 +1,7 @@
 ---
 title: 'Olivia Prior'
 date: 2018-11-28T15:14:54+10:00
-icon: 'team/team-icon-5.png'
+icon: 'team/olivia_small.jpg'
 featured: true
 draft: false
 weight: 3
