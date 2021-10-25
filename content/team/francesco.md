@@ -10,7 +10,7 @@ heroSubHeading: 'Senior Postdoctoral Researcher'
 heroBackground: 'team/fgrussu_artwork.png'
 ---
 
-I am a biomedical engineer specialised in computational Magnetic Resonance Imaging (MRI), with almost 10 years of experience in MRI research. I graduated at the [University of Cagliari](https://www.unica.it/unica/en/homepage.page) (BEng Biomedical engineering, 2009) and [University of Genoa](https://unige.it/en) (MEng Bioengineering, 2012) in Italy, and then obtained a PhD at [University College London](https://www.ucl.ac.uk/) (UCL) in Magnetic Resonance Physics (2016). I have worked as a post-doc at UCL from February 2016 to September 2020, where I was a member of the Queen Square Institute of Neurology and Centre for Medical Image Computing. I have been Trainee representative (2018-2020) of the White Matter Study Group of the [International Society for Magnetic Resonance in Medicine](https://www.ismrm.org/) (ISMRM), of which I am a member since 2013. Since October 2020 I am a senior post-doc at the [Vall d'Hebron Institute of Oncology](https://www.vhio.net/) (VHIO), where I work on MRI development in cancer for precision medicine. My latest research at VHIO focusses on developing new, clinically-feasible MRI techniques for non-invasive measurement of cell size and density, which find application in liver imaging and in cell senescence detection. I also lead the design of MRI acquisition and analysis pipelines for the new prospective studies that are carried out by the Radiomics group. 
+I am a biomedical engineer specialised in computational Magnetic Resonance Imaging (MRI), with almost 10 years of experience in MRI research. I graduated at the [University of Cagliari](https://www.unica.it/unica/en/homepage.page) (BEng Biomedical engineering, 2009) and [University of Genoa](https://unige.it/en) (MEng Bioengineering, 2012) in Italy, and then obtained a PhD at [University College London](https://www.ucl.ac.uk/) (UCL) in Magnetic Resonance Physics (2016). I have worked as a post-doc at UCL from 2016 to 2020, where I worked mainly on spinal cord MRI in multiple sclerosis. I have been Trainee representative (2018-2020) of the White Matter Study Group of the [International Society for Magnetic Resonance in Medicine](https://www.ismrm.org/) (ISMRM), of which I am a member since 2013. Since October 2020 I am a senior post-doc at the [Vall d'Hebron Institute of Oncology](https://www.vhio.net/) (VHIO), where I work on MRI development in cancer for precision medicine. My latest research at VHIO focusses on developing new, clinically-feasible MRI techniques for non-invasive measurement of cell size and density, which find application in liver imaging and cell senescence detection. I also involved in designing the MRI acquisition and analysis pipelines for the prospective studies of the Radiomics group. 
 
 ### Contact
 You can contact me at [fgrussu@vhio.net](mailto:fgrussu@vhio.net).
@@ -36,14 +36,14 @@ F Grussu, M Battiston, M Palombo, T Schneider, CAM Wheeler-Kingshott, DC Alexand
 
 J Cohen-Adad, ..., F Grussu, et al. Generic acquisition protocol for quantitative MRI of the spinal cord. Nature protocols 16, 4611–4632, 2021; doi: [10.1038/s41596-021-00588-0](https://doi.org/10.1038/s41596-021-00588-0).
 
-D Johnson, A Ricciardi, W Brownlee, B Kanber, F Prados, S Collorone, E Kaden, A Toosy, DC Alexander, CAM Gandini Wheeler-Kingshott, O Ciccarelli, F Grussu. Comparison of Neurite Orientation Dispersion and Density Imaging and Two-Compartment Spherical Mean Technique Parameter Maps in Multiple Sclerosis. Frontiers in Neurology 12, 662855, 2021; doi: [10.3389/fneur.2021.662855](https://doi.org/10.3389/fneur.2021.662855).
+D Johnson, A Ricciardi, W Brownlee, B Kanber, F Prados, S Collorone, E Kaden, A Toosy, DC Alexander, CAM Gandini Wheeler-Kingshott, O Ciccarelli, F Grussu. Comparison of neurite orientation dispersion and density imaging and two-compartment spherical mean technique parameter maps in multiple sclerosis. Frontiers in Neurology 12, 662855, 2021; doi: [10.3389/fneur.2021.662855](https://doi.org/10.3389/fneur.2021.662855).
 
 F Grussu, M Battiston, J Veraart, T Schneider, J Cohen-Adad, TM Shepherd, DC Alexander, E Fieremans, DS Novikov, CAM Gandini Wheeler-Kingshott. Multi-parametric quantitative in vivo spinal cord MRI with unified signal readout and image denoising. NeuroImage 217, 116884, 2021; doi: [10.1016/j.neuroimage.2020.116884](https://doi.org/10.1016/j.neuroimage.2020.116884).
 
 ### Recent grants and awards
 2020 Beatriu de Pinós post-doctoral fellowship. "Advancing Magnetic Resonance Imaging against liver cancer". Role: principal investigator (fellow). Amount: €144,300. Duration: 2022-2025.
 
-3rd prize, 2021 International Society for Magentic Resonance in Medicine2021 (ISMRM) MR of Cancer Study Group, Trainee competition for abstract Grussu F et al, Proc of ISMRM 2021, p.0699.
+3rd prize, 2021 International Society for Magentic Resonance in Medicine (ISMRM) MR of Cancer Study Group, Trainee competition for abstract Grussu F et al, Proc of ISMRM 2021, p.0699.
 
 Magna cum Laude award at the 2021 ISMRM meeting, for abstract Grussu et al, Proc ISMRM 2021, p.0699.
 
