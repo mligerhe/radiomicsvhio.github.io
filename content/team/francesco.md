@@ -18,7 +18,7 @@ I am a Biomedical engineer who works in Magnetic Resonance Imaging (MRI). I grad
 You can contact me at [fgrussu@vhio.net](mailto:fgrussu@vhio.net).
 
 ## Links and resources
-You can find my personal web page [here](http://fragrussu.github.io). In my web page you will be able to access several free open-source packages for advanced image analysis:
+You can find my personal web page [here](http://fragrussu.github.io), where you can access several free open-source packages for advanced image analysis:
 * [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
 * [SARDU-Net](https://github.com/fragrussu/sardunet), for data-driven qMRI protocol design powered by artificial intelligence (AI) via the "Select and Retrieve via Direct Upsampling Network" algorithm;
 * [qMRINet](https://github.com/fragrussu/qMRINet), for qMRI model fitting based on AI;
