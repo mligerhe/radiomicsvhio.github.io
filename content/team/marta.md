@@ -9,7 +9,7 @@ heroHeading: 'Marta Ligero'
 heroSubHeading: 'Predoctoral researcher'
 heroBackground: 'team/team2.jpg'
 ---
-Biomedical Engineer specialized on the implementation of artificial intelligence (AI) for developing CT-radiomics based biomakers of response to immunotherapy. She also gives supports for developing CT-radiomics pipelines in other oncological applications.
+Marta is a biomedical engineer who joined the Radiomics group on 2018. Her research is focused onthe implementation of artificial intelligence (AI) for developing CT-radiomics based biomakers of response to immunotherapy. She has experience on machine learning and CT-based radiomics pipelines. She also gives supports for developing CT-radiomics biomarkers in other oncological applications.
 
 ## Ne verba patulosque numen vix libet
 
