@@ -1,5 +1,5 @@
 ---
-title: 'Camilo Abel'
+title: 'Camilo Monreal'
 date: 2018-11-28T15:14:39+10:00
 icon: 'team/camilo_small.jpg'
 featured: true
@@ -7,7 +7,7 @@ draft: false
 weight: 4
 heroHeading: 'Camilo Monreal'
 heroSubHeading: 'Computer Scientist'
-heroBackground: 'team/team2.jpg'
+heroBackground: 'team/camilo_back.jpg'
 ---
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
