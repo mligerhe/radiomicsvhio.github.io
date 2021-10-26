@@ -9,10 +9,7 @@ heroHeading: 'Marta Ligero'
 heroSubHeading: 'PhD student in Bioengineering'
 heroBackground: 'team/team2.jpg'
 ---
-
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Biomedical Engineer specialized on the implementation of artificial intelligence (AI) for developing CT-radiomics based biomakers of response to immunotherapy. She also gives supports for developing CT-radiomics pipelines in other oncological applications.
 
 ## Ne verba patulosque numen vix libet
 
