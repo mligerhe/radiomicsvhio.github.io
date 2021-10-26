@@ -10,8 +10,9 @@ heroSubHeading: 'Predoctoral Researcher'
 heroBackground: 'team/team2.jpg'
 ---
 
-Biomedical Engineer specialized on the implementation of artificial intelligence (AI) for developing 
-CT-radiomics based biomakers of response to immunotherapy. 
+Marta is a biomedical engineer who joined the Radiomics group in 2018. Her researched is focused on the implementation of artificial 
+intelligence (AI) for developing CT-radiomics based biomakers of response to immunotherapy. Moreover, she gives support in the development of
+CT-radiomics biomarkers in other cancer treatments. 
 
 ## Ne verba patulosque numen vix libet
 
