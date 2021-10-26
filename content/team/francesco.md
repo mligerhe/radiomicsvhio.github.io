@@ -12,17 +12,19 @@ heroBackground: 'team/fgrussu_artwork.png'
 
 I am a biomedical engineer specialised in computational Magnetic Resonance Imaging (MRI), with almost 10 years of experience in MRI research. I graduated at the [University of Cagliari](https://www.unica.it/unica/en/homepage.page) (BEng Biomedical engineering, 2009) and [University of Genoa](https://unige.it/en) (MEng Bioengineering, 2012) in Italy, and then obtained a PhD at [University College London](https://www.ucl.ac.uk/) (UCL) in Magnetic Resonance Physics (2016). I have worked as a post-doc at UCL from 2016 to 2020, where I worked mainly on spinal cord MRI in multiple sclerosis. I have been Trainee representative (2018-2020) of the White Matter Study Group of the [International Society for Magnetic Resonance in Medicine](https://www.ismrm.org/) (ISMRM), of which I am a member since 2013. Since October 2020 I am a senior post-doc at the [Vall d'Hebron Institute of Oncology](https://www.vhio.net/) (VHIO), where I work on MRI development in cancer for precision medicine. My latest research at VHIO focusses on developing new, clinically-feasible MRI techniques for non-invasive measurement of cell size and density, which find application in liver imaging and cell senescence detection. I am also involved in designing the MRI acquisition and analysis pipelines for the prospective clinical studies of the Radiomics group. 
 
-### Contact
-You can contact me at [fgrussu@vhio.net](mailto:fgrussu@vhio.net).
+### Contact and web pages
+- Email [![profile](/social/mail.svg)](mailto:fgrussu@vhio.net)
+- Web page on GitHub [![profile](/social/github.svg)](https://fragrussu.github.io)
+- Twitter [![profile](/social/twitter.svg)](https://twitter.com/fragrussu)
+- Google Scholar [![profile](/social/google-scholar.svg)](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao)
+- ORCID [![profile](/social/orcid.svg)](https://orcid.org/0000-0002-0945-3909) 
+- LinkedIn [![profile](/social/linkedin.svg)](http://linkedin.com/in/francesco-grussu-9a289775)
 
 
-### Links and resources
+### Resources and open-source code
 Below you can find links to:
-* my personal [web page](http://fragrussu.github.io);
 * my [CV](http://fragrussu.github.io/mycv.pdf);
 * my [PhD thesis](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf);
-* my Google Scholar [profile](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao);
-* my Twitter page [@fragrussu](https://twitter.com/fragrussu).
 
 I have released several open-source packages for advanced image analysis, e.g.:
 * [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
