@@ -12,6 +12,7 @@ heroBackground: 'team/fgrussu_artwork.png'
 
 I am a biomedical engineer specialised in computational Magnetic Resonance Imaging (MRI), with almost 10 years of experience in MRI research. I graduated at the [University of Cagliari](https://www.unica.it/unica/en/homepage.page) (BEng Biomedical engineering, 2009) and [University of Genoa](https://unige.it/en) (MEng Bioengineering, 2012) in Italy, and then obtained a PhD at [University College London](https://www.ucl.ac.uk/) (UCL) in Magnetic Resonance Physics (2016). I have worked as a post-doc at UCL from 2016 to 2020, where I worked mainly on spinal cord MRI in multiple sclerosis. I have been Trainee representative (2018-2020) of the White Matter Study Group of the [International Society for Magnetic Resonance in Medicine](https://www.ismrm.org/) (ISMRM), of which I am a member since 2013. Since October 2020 I am a senior post-doc at the [Vall d'Hebron Institute of Oncology](https://www.vhio.net/) (VHIO), where I work on MRI development in cancer for precision medicine. My latest research at VHIO focusses on developing new, clinically-feasible MRI techniques for non-invasive measurement of cell size and density, which find application in liver imaging and cell senescence detection. I am also involved in designing the MRI acquisition and analysis pipelines for the prospective clinical studies of the Radiomics group. 
 
+
 ### Contact and web pages
 - Email [![profile](/social/mail.svg)](mailto:fgrussu@vhio.net)
 - Web page on GitHub [![profile](/social/github.svg)](https://fragrussu.github.io)
@@ -21,11 +22,13 @@ I am a biomedical engineer specialised in computational Magnetic Resonance Imagi
 - LinkedIn [![profile](/social/linkedin.svg)](http://linkedin.com/in/francesco-grussu-9a289775)
 
 
-### Resources and open-source code
+### Resources
 Below you can find links to:
 * my [CV](http://fragrussu.github.io/mycv.pdf);
 * my [PhD thesis](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf);
 
+
+### Open-source research software
 I have released several open-source packages for advanced image analysis, e.g.:
 * [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
 * [SARDU-Net](https://github.com/fragrussu/sardunet), for data-driven quantitative MRI protocol design;
@@ -41,6 +44,7 @@ J Cohen-Adad, et al. Generic acquisition protocol for quantitative MRI of the sp
 D Johnson, A Ricciardi, W Brownlee, B Kanber, F Prados, S Collorone, E Kaden, A Toosy, DC Alexander, CAM Gandini Wheeler-Kingshott, O Ciccarelli, F Grussu. Comparison of neurite orientation dispersion and density imaging and two-compartment spherical mean technique parameter maps in multiple sclerosis. Frontiers in Neurology 12, 662855, 2021; doi: [10.3389/fneur.2021.662855](https://doi.org/10.3389/fneur.2021.662855).
 
 F Grussu, M Battiston, J Veraart, T Schneider, J Cohen-Adad, TM Shepherd, DC Alexander, E Fieremans, DS Novikov, CAM Gandini Wheeler-Kingshott. Multi-parametric quantitative in vivo spinal cord MRI with unified signal readout and image denoising. NeuroImage 217, 116884, 2020; doi: [10.1016/j.neuroimage.2020.116884](https://doi.org/10.1016/j.neuroimage.2020.116884).
+
 
 ### Recent grants and awards
 2020 Beatriu de Pinós post-doctoral fellowship. "Advancing Magnetic Resonance Imaging against liver cancer". Role: principal investigator (fellow). Amount: €144,300. Duration: 01/2022-12/2024.
