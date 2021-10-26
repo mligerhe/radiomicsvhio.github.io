@@ -26,9 +26,7 @@ Francesco is a biomedical engineer specialised in computational MRI, with almost
 
 
 ### Resources
-Below you can find:
-* his full [CV](http://fragrussu.github.io/mycv.pdf);
-* his [PhD thesis](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf).
+Link to Francesco's [CV](http://fragrussu.github.io/mycv.pdf) and [PhD thesis](https://discovery.ucl.ac.uk/id/eprint/1477007/7/FGrussu_PhD_final_20160320.pdf).
 
 
 ### Open-source research software
