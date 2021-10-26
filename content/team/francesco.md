@@ -53,8 +53,6 @@ F Grussu, M Battiston, J Veraart, T Schneider, J Cohen-Adad, TM Shepherd, DC Ale
 
 Magna cum Laude,2021 ISMRM meeting, for abstract Grussu et al, Proc ISMRM 2021, p.0699.
 
-Magna cum Laude,2020 ISMRM meeting, for abstract Grussu et al, Proc ISMRM 2020, p.1035.
-
 2nd prize (shared), 2020 ISMRM British and Irish Chapter “Mansfield Research Innovation Award” for abstract Grussu F et al, Proc of ISMRM 2020.
 
 1st prize in the “Multi-dimensional Diffusion Imaging” (MUDI) challenge at 2019 CDMRI MICCAI Workshop (Shenzhen, China, 17/10/2019). Team: Grussu F,
