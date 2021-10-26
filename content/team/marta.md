@@ -6,7 +6,7 @@ featured: true
 draft: false
 weight: 3
 heroHeading: 'Marta Ligero'
-heroSubHeading: 'PhD student in Bioengineering'
+heroSubHeading: 'Predoctoral researcher'
 heroBackground: 'team/team2.jpg'
 ---
 Biomedical Engineer specialized on the implementation of artificial intelligence (AI) for developing CT-radiomics based biomakers of response to immunotherapy. She also gives supports for developing CT-radiomics pipelines in other oncological applications.
