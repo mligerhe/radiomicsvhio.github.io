@@ -37,11 +37,11 @@ I have released several open-source packages for advanced image analysis, e.g.:
 
 
 ### Latest articles
+K Bernatowicz, F Grussu, M Ligero, A Garcia, E Delgado, R Perez-Lopez. Robust imaging habitat computation using voxel-wise radiomics features. Scientific Reports 11, 20133, 2021; doi: [10.1038/s41598-021-99701-2](https://doi.org/10.1038/s41598-021-99701-2).
+
 F Grussu, M Battiston, M Palombo, T Schneider, CAM Wheeler-Kingshott, DC Alexander. Deep learning model fitting for diffusion-relaxometry: a comparative study. Proceedings of Computational Diffusion MRI 2020 (MICCAI workshop), 159-172, 2021; doi: [10.1007/978-3-030-73018-5_13](https://doi.org/10.1007/978-3-030-73018-5_13).
 
 J Cohen-Adad, et al. Generic acquisition protocol for quantitative MRI of the spinal cord. Nature protocols 16, 4611–4632, 2021; doi: [10.1038/s41596-021-00588-0](https://doi.org/10.1038/s41596-021-00588-0).
-
-D Johnson, A Ricciardi, W Brownlee, B Kanber, F Prados, S Collorone, E Kaden, A Toosy, DC Alexander, CAM Gandini Wheeler-Kingshott, O Ciccarelli, F Grussu. Comparison of neurite orientation dispersion and density imaging and two-compartment spherical mean technique parameter maps in multiple sclerosis. Frontiers in Neurology 12, 662855, 2021; doi: [10.3389/fneur.2021.662855](https://doi.org/10.3389/fneur.2021.662855).
 
 F Grussu, M Battiston, J Veraart, T Schneider, J Cohen-Adad, TM Shepherd, DC Alexander, E Fieremans, DS Novikov, CAM Gandini Wheeler-Kingshott. Multi-parametric quantitative in vivo spinal cord MRI with unified signal readout and image denoising. NeuroImage 217, 116884, 2020; doi: [10.1016/j.neuroimage.2020.116884](https://doi.org/10.1016/j.neuroimage.2020.116884).
 
@@ -51,9 +51,9 @@ F Grussu, M Battiston, J Veraart, T Schneider, J Cohen-Adad, TM Shepherd, DC Ale
 
 3rd prize, 2021 International Society for Magentic Resonance in Medicine (ISMRM) MR of Cancer Study Group, Trainee competition for abstract Grussu F et al, Proc of ISMRM 2021, p.0699.
 
-Magna cum Laude award at the 2021 ISMRM meeting, for abstract Grussu et al, Proc ISMRM 2021, p.0699.
+Magna cum Laude,2021 ISMRM meeting, for abstract Grussu et al, Proc ISMRM 2021, p.0699.
 
-Magna cum Laude award at the 2020 ISMRM meeting, for abstract Grussu et al, Proc ISMRM 2020, p.1035.
+Magna cum Laude,2020 ISMRM meeting, for abstract Grussu et al, Proc ISMRM 2020, p.1035.
 
 2nd prize (shared), 2020 ISMRM British and Irish Chapter “Mansfield Research Innovation Award” for abstract Grussu F et al, Proc of ISMRM 2020.
 
