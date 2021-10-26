@@ -41,7 +41,7 @@ D Johnson, A Ricciardi, W Brownlee, B Kanber, F Prados, S Collorone, E Kaden, A 
 F Grussu, M Battiston, J Veraart, T Schneider, J Cohen-Adad, TM Shepherd, DC Alexander, E Fieremans, DS Novikov, CAM Gandini Wheeler-Kingshott. Multi-parametric quantitative in vivo spinal cord MRI with unified signal readout and image denoising. NeuroImage 217, 116884, 2020; doi: [10.1016/j.neuroimage.2020.116884](https://doi.org/10.1016/j.neuroimage.2020.116884).
 
 ### Recent grants and awards
-2020 Beatriu de Pinós post-doctoral fellowship. "Advancing Magnetic Resonance Imaging against liver cancer". Role: principal investigator (fellow). Amount: €144,300. Duration: 2022-2025.
+2020 Beatriu de Pinós post-doctoral fellowship. "Advancing Magnetic Resonance Imaging against liver cancer". Role: principal investigator (fellow). Amount: €144,300. Duration: 01/2022-12/2024.
 
 3rd prize, 2021 International Society for Magentic Resonance in Medicine (ISMRM) MR of Cancer Study Group, Trainee competition for abstract Grussu F et al, Proc of ISMRM 2021, p.0699.
 
