@@ -9,46 +9,28 @@ heroHeading: 'Marta Ligero'
 heroSubHeading: 'Predoctoral researcher'
 heroBackground: 'team/team2.jpg'
 ---
-Marta is a biomedical engineer who joined the Radiomics group on 2018. Her research is focused onthe implementation of artificial intelligence (AI) for developing CT-radiomics based biomakers of response to immunotherapy. She has experience on machine learning and CT-based radiomics pipelines. She also gives supports for developing CT-radiomics biomarkers in other oncological applications.
+Marta is a biomedical engineer who joined the Radiomics group on 2018. Her research is focused onthe implementation of artificial intelligence (AI) for developing CT-radiomics based biomakers of response to immunotherapy. She has a research interest on improving immunotherapy predictive biomarkers by developing deep learning arquitectures capturing multi-lesion patients response. She also gives supports for developing CT-radiomics biomarkers in other oncological applications.
 
-## Ne verba patulosque numen vix libet
+### Scientific trajectory 
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Marta is a PhD student with expertise in image processing/quantification (Radiomics) and implementation of machine learning algorithms for medical imaging applications. 
+She has computational skills in programming for image processing and data analysis with R and Python. 
+Graduated in Biomedical Engineering (2017) from the University of Barcelona and Master of Science in Biomedical engineering (2018) from the Polytechnic University of Barcelona. 
+She specialized in Medical Imaging during her final master thesis at Radiomics group from Vall d’Hebron Institute of Oncology (VHIO), developing Radiomics-based algorithms for response prediction in cancer patients.   
+Currently working as a predoctoral researcher at the Vall d'Hebron Institute of Oncology (VHIO) since 2018, developing tools for response prediction to immunotherapy based on image quantification and associating them with biological data. The results of these studies has been presented in oral presentations at the European Congress of Radiology (M. Ligero, ECR 2020 Vienna, Austria) and ESMO Congress (M. Ligero, ESMO Congress 2019 Barcelona, Spain) and they have been also published (M. Ligero et. al, Radiology 2021). 
+Moreover, reproducibility studies about image quantification techniques based on the acquisition and reconstruction of the computer tomography (CT) images has been developed and presented at the Engineering in Medicine and Biology Conference (M. Ligero EMB Conference 2019, Berlin, Germany) and the results of this analysis have been published (M. Ligero et. al, European Radiology 2020) 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+### Open-source research software
+He has released several open-source packages for advanced image analysis, e.g.:
+* [MyRelax](https://github.com/fragrussu/MyRelax), for myelin and relaxation analysis in MRI;
 
-## Postquam tamen
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+### Latest articles
+K Bernatowicz, F Grussu, M Ligero, A Garcia, E Delgado, R Perez-Lopez. Robust imaging habitat computation using voxel-wise radiomics features. Scientific Reports 11, 20133, 2021; doi: [10.1038/s41598-021-99701-2](https://doi.org/10.1038/s41598-021-99701-2).
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+
+### Recent grants and awards
+2020 Beatriu de Pinós post-doctoral fellowship. "Advancing Magnetic Resonance Imaging against liver cancer". Role: principal investigator (fellow). Amount: €144,300. Duration: 01/2022-12/2024.
