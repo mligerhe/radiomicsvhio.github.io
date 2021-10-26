@@ -6,7 +6,7 @@ featured: true
 draft: false
 weight: 3
 heroHeading: 'Marta Ligero'
-heroSubHeading: 'PhD student in Bioengineering'
+heroSubHeading: 'Predoctoral Researcher'
 heroBackground: 'team/team2.jpg'
 ---
 
