@@ -6106,6 +6106,9 @@ html {
     .team-summary .team-content .team-title {
       font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
+    .team-summary .team-content .team-pub {
+      font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
+      font-size: 1.2rem; }
     .team-summary .team-content p {
       color: #666;
       font-size: 0.9rem;
