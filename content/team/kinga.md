@@ -1,7 +1,7 @@
 ---
 title: 'Kinga Bernatowicz'
 date: 2018-11-18T12:33:46+10:00
-icon: 'team/Kinga_small.jpg'
+icon: 'team/kinga_small.jpg'
 draft: false
 featured: true
 weight: 2
@@ -14,7 +14,7 @@ Kinga received M.Sc. and Ph.D. degrees from [ETH Zurich](https://ethz.ch). Worki
 
 ### Links and contact
 - LinkedIn [![profile](/social/linkedin.svg)](https://www.linkedin.com/in/kinga-bernatowicz-8091b2a6/)
-- Google Scholar [![profile](/social/google-scholar.svg)](https://scholar.google.com/citations?user=Zj5Vt3YAAAAJ&hl=en&oi=ao)
+- Google Scholar [![profile](/social/google-scholar.svg)](https://scholar.google.com/citations?user=HEZMC90AAAAJ&hl=en)
 - ORCID [![profile](/social/orcid.svg)](https://orcid.org/0000-0001-9166-1709)
 - Github [![profile](/social/github.svg)](https://github.com/kingaber) 
 - Twitter [![profile](/social/twitter.svg)](https://twitter.com/KingaBarcelona)
